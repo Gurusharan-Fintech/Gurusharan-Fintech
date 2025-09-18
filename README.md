@@ -32,7 +32,7 @@
 
 Below are a few things I'm working on:
 
-### 📌 [FinLense](https://github.com/Gurusharan-Fintech/finlense)
+### 📌 [FinLense](https://gjwa8yvcs8jmukmyqseuqq.streamlit.app/)
 
 An **AI-powered Fintech project** that:  
 - Provides insights on **personal finance management**  
