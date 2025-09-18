@@ -51,9 +51,9 @@ An **AI-powered Fintech project** that:
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/)
-- 🐙 [GitHub](https://github.com/Gurusharan-Fintech)  
-- ✉️ Email: **gurusharanpannirselvamclg@gmail.com**  
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- 🐙 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurusharan-Fintech)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gurusharanpannirselvamclg@gmail.com)
 
 ---
 
